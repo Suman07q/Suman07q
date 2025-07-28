@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Suman Porel
 
-<!--
-**Suman07q/Suman07q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A hands-on technician and developer, building my journey from electrical panels to IT, Python, and PCB design.
 
-Here are some ideas to get you started:
+## 🔧 Experience & Background
+- 🛠 4+ years of experience working with LT Electrical Panels
+- 📚 Diploma in Electronics + Pursuing B.Sc. in Information Technology
+- 💼 Currently working while learning modern software tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Learning & Projects
+- 👨‍💻 Python Projects (with ChatGPT)
+- 🌐 Web Development (HTML, CSS, JS)
+- 🧠 KiCad for PCB Design
+- 💻 Git, GitHub, and Open Source Collaboration
+
+## 📫 Contact Me
+- ✉️ Email: porelsuman05@gmail.com
+- 🌍 Location: Howrah, West Bengal
+
+---
+
+> “Learning never exhausts the mind — it only fuels the future.”
+
+
